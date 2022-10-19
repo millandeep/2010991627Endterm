@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "KOKO",
+      "address": "London, England",
+      "email": "koko@gmail.com",
+      "phone": "222-222-2222",
+      "website": "kokovenue.com",
+      "img": "https://cdn.thespaces.com/wp-content/uploads/2022/05/2E8BE335-0B4D-4837-A053-4DB8422EE093.jpeg",
+      "id": 1
+    },
+    {
+      "name": "Ascend Amphitheater",
+      "address": "fhjdad",
+      "email": "hacyu@gmail.com",
+      "phone": "77781",
+      "website": "xyz.com",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/IMG_logo_%282017%29.svg",
+      "id": 2
+    }
+  ]
+}
